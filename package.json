@@ -1,0 +1,23 @@
+{
+  "bugs": {
+    "url": "https://github.com/beqdev/sjcl-scrypt/issues"
+  },
+  "dependencies": {},
+  "description": "sjcl-scrypt ===========",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "gitHead": "50ef6665fbf23a291195cfabf55c71d622f899b9",
+  "homepage": "https://github.com/beqdev/sjcl-scrypt#readme",
+  "name": "sjcl-scrypt",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "sjcl-scrypt\n===========\n\nAn scrypt implementation in JavaScript, because that is not insane at all.\n\nIt depends on the [Standford JavaScript Cryptography Library](http://crypto.stanford.edu/sjcl/)\nand shares its license (BSD).\n\nTo use, make sure you have `sjcl.js` available, then do this:\n\n    <script src=\"sjcl.js\"></script>\n    <script src=\"sjcl-scrypt.js\"></script>\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beqdev/sjcl-scrypt.git"
+  },
+  "version": "0.0.1"
+}
